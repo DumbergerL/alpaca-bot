@@ -4,6 +4,7 @@
   "description": "",
   "main": "start-bot.js",
   "scripts": {
+    "train-bot": "node train-bot.js",
     "start": "node start-bot.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
